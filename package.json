@@ -1,0 +1,23 @@
+{
+  "name": "dummy_repo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoeNguyen93/dummy_repo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoeNguyen93/dummy_repo/issues"
+  },
+  "homepage": "https://github.com/JoeNguyen93/dummy_repo#readme",
+  "dependencies": {
+    "randomcolor": "^0.5.3"
+  }
+}
